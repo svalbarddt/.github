@@ -1,4 +1,6 @@
-The Svalbard Digital Twin project is developed under the European Space Agency’s Digital Twin Earth initiative, as part of the Digital Twin Components (DTC) Early Development Actions.
+## A Digital Twin for Svalbard's Cryosphere
+
+The Svalbard DT project is developed under the European Space Agency’s Digital Twin Earth initiative, as part of the Digital Twin Components (DTC) Early Development Actions.
 
 More information can be found on https://svalbarddt.org/.
 
